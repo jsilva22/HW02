@@ -1,4 +1,4 @@
-# HW02 - State Population
+# HW02 - State Population and Pokemon Frequency
 ## State Population Growth for CA and NY
 ![State Growth](state_population.png)
 For my first graph, I wanted to compare population growth between CA and NY over a span of 20 years. I chose this duration for two reasons. First, I thought it'd be interesting to focus on a duration that had some time before I was born and sometime after I was born. I cover from 1990(10 years before I was born) and 2010(10 years after) just to personalize it a little more. The second reason is that I know CA starting picking up in population around the 90's and was interested to see just how much it had grown in a span of 20 years. I included my csv of the data and it can also be found [here.](https://github.com/JoshData/historical-state-population-csv/blob/primary/historical_state_population_by_year.csv)
